@@ -1,13 +1,11 @@
-name: Herring Cove
-author: Herring Cove
+name: Kieran White
+author: Kieran White
 baseurl: /herring-cove
-description: theme for jekyll
-github: http://www.github.com/arnp
-twitter: http://www.twitter.com/
-facebook: http://www.facebook.com
+description: Portfolio / Blog
+github: http://www.github.com/kieranswhite
+twitter: http://www.twitter.com/u/kieranswhite
 linkedin: http://www.linkedin.com
-email: rnpatel[at]me.com
-location: 42°2'16"N   70°12'47"W
+email: kieransw6@gmail.com      
 disqus: diqus-username
 
 ##Make sure to edit the above fields, especially for disqus.
